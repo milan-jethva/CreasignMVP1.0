@@ -29,7 +29,7 @@ export default function HomePage() {
     try {
       setLoading(true)
 
-      const response = await fetch("https://1e23-34-126-110-169.ngrok-free.app/generate/", {
+      const response = await fetch("https://0e93-34-90-114-80.ngrok-free.app/generate/", {
         method: "POST",
         body: formData,
       })

@@ -155,8 +155,8 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900">Email</h3>
-                      <p className="text-gray-600">hello@creasign.com</p>
-                      <p className="text-gray-600">support@creasign.com</p>
+                      <p className="text-gray-600">createbusiness47@gmail.com</p>
+                      <p className="text-gray-600">createbusiness47@gmail.com</p>
                     </div>
                   </div>
 
@@ -166,8 +166,8 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900">Phone</h3>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
-                      <p className="text-gray-600">+1 (555) 987-6543</p>
+                      <p className="text-gray-600">-</p>
+                      <p className="text-gray-600">-</p>
                     </div>
                   </div>
 
@@ -178,11 +178,11 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold text-gray-900">Address</h3>
                       <p className="text-gray-600">
-                        123 Innovation Drive
+                        Surat
                         <br />
-                        San Francisco, CA 94105
+                        Gujarat
                         <br />
-                        United States
+                        India
                       </p>
                     </div>
                   </div>
@@ -194,9 +194,9 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold text-gray-900">Business Hours</h3>
                       <p className="text-gray-600">
-                        Monday - Friday: 9:00 AM - 6:00 PM PST
+                        -
                         <br />
-                        Saturday: 10:00 AM - 4:00 PM PST
+                        -
                         <br />
                         Sunday: Closed
                       </p>
@@ -213,21 +213,21 @@ export default function ContactPage() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">How long does image generation take?</h4>
                     <p className="text-gray-600 text-sm">
-                      Most images are generated within 10-30 seconds, depending on complexity.
+                      Most images are generated within 30-60 seconds, depending on complexity.
                     </p>
                   </div>
 
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">What file formats do you support?</h4>
                     <p className="text-gray-600 text-sm">
-                      We support JPG, PNG, and WebP formats for both input and output.
+                      We support PNG as input and output . 
                     </p>
                   </div>
 
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">Is there a free trial available?</h4>
                     <p className="text-gray-600 text-sm">
-                      Yes! You can generate up to 5 images for free to test our service.
+                      Yes! 
                     </p>
                   </div>
                 </CardContent>

@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "CREASIGN - AI Product Image Generator",
   description: "Transform your ideas into stunning visuals with AI-powered image generation",
-    generator: 'v0.dev'
+    generator: 'Milan'
 }
 
 export default function RootLayout({

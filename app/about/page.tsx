@@ -73,20 +73,15 @@ export default function AboutPage() {
 
           <div className="prose prose-lg mx-auto text-gray-600">
             <p>
-              CREASIGN was founded in 2024 by a team of AI researchers, designers, and entrepreneurs who recognized a
-              critical gap in the market. Small businesses and individual creators were struggling to produce
-              high-quality marketing visuals without the budget for professional photography or design services.
+              Every successful company starts with a bold idea—and ours is still being written. We're in the exciting early stages of building something impactful. Our journey began with a simple but powerful mission: to solve real problems using smart, human-centered solutions. While we’re still growing, learning, and evolving, our dedication to innovation, quality, and purpose is already shaping the foundation of what we’re creating. As our story unfolds, we invite you to be part of it—whether as a customer, collaborator, or supporter. The best chapters are yet to come.
             </p>
 
             <p>
-              Our breakthrough came when we developed a proprietary AI model that could understand product context and
-              generate contextually appropriate backgrounds, lighting, and styling. What once took hours of professional
-              work could now be accomplished in seconds.
+             
             </p>
 
             <p>
-              Today, CREASIGN serves thousands of businesses worldwide, from e-commerce startups to established brands,
-              helping them create compelling visual content that drives engagement and sales.
+             
             </p>
           </div>
         </div>
@@ -159,15 +154,15 @@ export default function AboutPage() {
 
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">10K+</div>
+              <div className="text-4xl font-bold mb-2">10+</div>
               <div className="text-lg opacity-90">Images Generated</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">500+</div>
+              <div className="text-4xl font-bold mb-2">In Process</div>
               <div className="text-lg opacity-90">Happy Customers</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">50+</div>
+              <div className="text-4xl font-bold mb-2">-</div>
               <div className="text-lg opacity-90">Countries Served</div>
             </div>
             <div>

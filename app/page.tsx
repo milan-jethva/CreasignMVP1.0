@@ -29,7 +29,7 @@ export default function HomePage() {
     try {
       setLoading(true)
 
-      const response = await fetch("https://42b5-34-125-19-203.ngrok-free.app/generate/", {
+      const response = await fetch("https://imageapi-backend.onrender.com/process/", {
         method: "POST",
         body: formData,
       })
